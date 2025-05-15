@@ -11,8 +11,8 @@ TFG-Markov-LSTM-SP500/
 ├── datos/                        # Archivos de datos históricos del S&P 500
 ├── ingenieria_dato/             # Limpieza, transformación y preparación de los datos
 ├── analisis_dato/
-│   ├── modelos/                 # Notebooks con implementación de HMM, LSTM e híbrido
-│   └── scripts/                # Funciones y módulos reutilizables del análisis
+│   ├── modelos/                 # Modelos de la serie general y estados ocultos
+│   └── scripts/                # Archivos de código HMM, LSTM y predicciones.
 ├── README.md
 ```
 
@@ -37,6 +37,6 @@ Comparar el rendimiento de una LSTM tradicional frente a un modelo híbrido Mark
 
 ## 📌 Autor
 
-**[Ismael Castuera Martín]**  
-Estudiante de [Business Analytics]  
-[Universidad Francisco de Vitoria] – Curso 2024/2025
+**Ismael Castuera Martín**  
+Estudiante de Business Analytics 
+Universidad Francisco de Vitoria – Curso 2024/2025
